@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://bit.ly/3itZsSm
+&#EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTINF: -1 tvg-name="Gratis"  group-title="ONGIS-MBOIS", TIDAK UNTUK DIPERJUALBELIKAN
 https://emoji.mrz.kn
 #EXTINF: -1 tvg-name="Gratis"  group-title="ONGIS-MBOIS", GUNAKAN DENGAN BIJAK
@@ -13,6 +13,8 @@ http://api.mbed.cc/yt.php?id=SwYO80ArYv4
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://raw.githubusercontent.com/matthuisman/new.mjh.nz/master/au/melbourne/epg.xml" refresh="3600"
 
 <---National TV--->
+#EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="National TV",SCTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
