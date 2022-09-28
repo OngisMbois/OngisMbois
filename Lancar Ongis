@@ -359,7 +359,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 <----------------------------------- Entertainment --------------------------------------->
 
-#EXTINF: -1 tvg-name="Gratis"  group-title="Entertainment", SUBSCRIBE YOUTUBE "ONGIS-MBOIS"
+#EXTINF: -1 tvg-name="Gratis"  group-title="Entertaiment", SUBSCRIBE YOUTUBE "ONGIS-MBOIS"
 https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 
 
@@ -367,7 +367,7 @@ https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 
 
-#EXTINF:-1  tvg-id="ext" group-title="Entertaiment" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
+#EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 
