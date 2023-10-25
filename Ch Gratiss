@@ -442,3 +442,391 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="Religi",Nabawi TV
 https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+
+=================THAILAND================
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: ALTV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9120294969624eecdcbaadb5deb8dfef.png" group-title="THAILAND",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Amarin 34" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="THAILAND",Amarin TV 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Bayon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/5acfb4128631003655ffac8e001828fa.png" group-title="THAILAND",Baygon TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/23852
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: BBTV Channel 7" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="THAILAND",BBTV Channel 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Channel 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f517fea5b98139e9e249d94b5d708aab.png" group-title="THAILAND",Channel 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Channel 8" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4d1bb4695654b2d55655ef0e5ff33526.jfif" group-title="THAILAND",Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Channel 138 MV LAO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9293a8594a87e260ed7f12f9a6bfe565.png" group-title="THAILAND",Channel 138 MV LAO
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/281633
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: CTB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/42cea95a54f6454b63cc7920adfff97b.jfif" group-title="THAILAND",CTB TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/23858
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/5aedbb90378d997c50b0a3c2f66bed7d.png" group-title="THAILAND",DL TV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fe4dd8195742e4c54f06b373117093ac.png" group-title="THAILAND",DL TV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fc9bc1ee1bf930d3672eb0fc4ca497bb.png" group-title="THAILAND",DL TV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a34d5a97d2e75448f8eb60c5848d353c.png" group-title="THAILAND",DL TV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/da2c0f95aece43b895e010b139e75974.png" group-title="THAILAND",DL TV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d04a293e7c58adcbabfc3bb5120a4a63.png" group-title="THAILAND",DL TV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 7" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a1566b23a8220fc448d6b7beb09d4a98.png" group-title="THAILAND",DL TV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 8" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/7979a3363ff951342e4e76ce397da1f0.png" group-title="THAILAND",DL TV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/5b2af3d35e0b93de9291b053c9bcb43b.png" group-title="THAILAND",DL TV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 10" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/701b5c419138fabf0bc71282abead28f.png" group-title="THAILAND",DL TV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 11" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/b3484b1f99775c0fff3647578cd88887.png" group-title="THAILAND",DL TV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 12" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/7db860b802219750cac31a45910f9982.png" group-title="THAILAND",DL TV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 13" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/86168cce2d600d5f2773e84702a59059.png" group-title="THAILAND",DL TV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 14" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ae7da1a6848ba39405fa468a5482ff68.png" group-title="THAILAND",DL TV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DL TV 15" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a5ece1f2633cf02e4f282b4580330aa2.png" group-title="THAILAND",DL TV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: DMC TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="THAILAND",DMC
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299487
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: ETV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ec3dcc4f99f58587fbcd43a442aa3c14.png" group-title="THAILAND",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Global Buddhist Network" tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="THAILAND",Global Buddhist Network
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299375
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: GMM25" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/8234cc4d09f36e5c42dd26407dbe02a6.png" group-title="THAILAND",GMM 25
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Good Idea TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/7efc4fe7a014e33da62fcbbb4a4cf22b.png" group-title="THAILAND",Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Green" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/917a0e2d62c003893a24922786881822.png" group-title="THAILAND",Green
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/146725
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Happy TV 65" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7720039e34480a25f9af016ae7834281.png" group-title="THAILAND",Happy TV 65
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/145034
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: MCOT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9ebb303def714bd61da2906264519a7a.png" group-title="THAILAND",MCOT 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: MONO 29" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/10219085f6f26ead4da27d8f83dbe516.png" group-title="THAILAND",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Nation TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2d88189579ae452a99fcab007506d80b.jpeg" group-title="THAILAND",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: NBT TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f8fee14f8a8ea3489b96f8ed9b65695e.png" group-title="THAILAND",NBT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: New 18" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="THAILAND",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: News 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="THAILAND",News 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:0 tvg-name="GMM25TH" tvg-logo="https://www.one31.net/_nuxt/img/ebb2242.png" group-title="THAILAND",ONE 31
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: PPTV 36" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6fc40c06c8cb2f00cc6d940e2ad1b702.svg" group-title="THAILAND",PPTV 36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: SBT TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="THAILAND",SBT TV
+http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai Parliament TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="THAILAND",Thai Parliament TV
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai PBS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="THAILAND",Thai PBS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="THAILAND",Thai TV 5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thairath TV 32" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="THAILAND",Thairath TV 32
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/V0013.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: True 4U" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/021476879e3c00b468957969dd99b258.png" group-title="THAILAND",True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premier Football 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="VIP SPORTS 1",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://m1.ballnaja.com/True_Premier_Football_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="VIP SPORTS 1",True Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://m1.ballnaja.com/True_Sports_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Umm TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="THAILAND",Umm TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/158644
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: V2H2 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c2e56e3edee32f61fa3f82f5c5a9fc49.jfif" group-title="THAILAND",V2H2 TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/195636
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: White Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="THAILAND", White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Work Point" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/503b50d6b22d0ca34a837b142f9fcb13.jpg" group-title="THAILAND",Work Point TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Yateem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/3c01a873fbf007c3fd33382ebd45d46f.jpg" group-title="THAILAND",Yateem TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/158801
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Zabb Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6cec74cc58cd1641d2b2566e768d9191.jfif" group-title="THAILAND",Zabb Channel
+http://183.89.246.119:8881/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-chno="7"  tvg-id="T Sports 7" tvg-name="T Sports 7" group-title="THAILAND" tvg-logo="https://i.imgur.com/hnfiUbK.png",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+
+#EXTINF:-1 tvg-chno="9"  tvg-id="Jomyut" tvg-name="Jomyut" group-title="THAILAND" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",Jomyut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="16"  tvg-id="TNN16" tvg-name="TNN16" group-title="THAILAND" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+
+#EXTINF:-1 tvg-chno="17"  tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="THAILAND" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19"  tvg-id="7Flix" tvg-name="7Flix" group-title="MOVIES" tvg-logo="https://i.imgur.com/XTC7PUr.png",7Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
+
+#EXTINF:-1 tvg-chno="20"  tvg-id="Mangorn" tvg-name="Mangorn" group-title="THAILAND" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangorn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="26"  tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="MOVIES" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+
+#EXTINF:-1 tvg-chno="28"  tvg-id="Cartoon Club" tvg-name="Cartoon Club" group-title="KIDS" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="11"  tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="MOVIES" tvg-logo="",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+
+#EXTINF:-1 tvg-chno="12"  tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="MOVIES" tvg-logo="",MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+
+#EXTINF:-1 tvg-chno="13"  tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="MOVIES" tvg-logo="",MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+
+#EXTINF:-1 tvg-chno="14"  tvg-id="ANIMAL KINGDOM" tvg-name="ANIMAL KINGDOM" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+
+#EXTINF:-1 tvg-chno="15"  tvg-id="@TV" tvg-name="@TV" group-title="THAILAND" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+=============PHILIPPINES=============
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: A2Z Channel 11" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/e63eb0eb23fe856c15ad341dc31a3298.png" group-title="PHILIPPINES",A2Z Channel 11
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276601
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: AFN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PHILIPPINES",AFN
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/99960
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: ANC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fa89a31358f97bba2dd61f63734bba0.png" group-title="PHILIPPINES",ANC
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144833
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/977e497d79d8efea35f180aa4f732b09.svg" group-title="PHILIPPINES",ANIMAL PLANET
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144824
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Animax Philippines" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6f994d0864737b77a93c0797eb8f9180.png" group-title="PHILIPPINES",Animax Philippines
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144838
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/79163a3883ff4c56864552f4f799b120.png" group-title="PHILIPPINES",AXN
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144831
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Buko" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/92bdf228268a42668657595b61b88f4a.png" group-title="PHILIPPINES",BuKo
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299952
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a7e076dc55f6f28f063d81b51eeacedc.png" group-title="PHILIPPINES",Cartoon Network
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144835
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: CCTN 47" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/ab1ef458bdaf36c2712155092876acb3.webp" group-title="PHILIPPINES",CCTN 47
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/146706
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cine Mo!" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/133884a64c6b5b9cb5cf313d11b4ac29.svg" group-title="PHILIPPINES",Cine Mo!
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299956
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cinema One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60d3554c881e1bd3579edd29cb4d144e.png" group-title="PHILIPPINES",Cinema One
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/225357
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cef6f50462b01da55c9f19ece9a618f7.png" group-title="PHILIPPINES",Crime+ Investigation
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/170004
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6f82dd222499540a59b3809acd8769e8.png" group-title="PHILIPPINES",Discovery 
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144858
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Dreamworks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PHILIPPINES",Dreamworks
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299949
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: DZRH News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/061c21c8fdd77b9eb21c463692965012.png" group-title="PHILIPPINES",DZRH News TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276535
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA Pinoy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/f9fe2c041454b56a4c56c605e3937a7e.png" group-title="PHILIPPINES",GMA Pinoy TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/147238
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA Life TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/ff00b1703c149f37c84fbe2d162075df.png" group-title="PHILIPPINES",GMA Life TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144867
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/20fd546935c0ac5386dbc81309c5ef82.png" group-title="PHILIPPINES",GMA News TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144859
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: HITS Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b5441d5267592cb28cda65639ec25d10.png" group-title="PHILIPPINES",HITS Movies
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/285605
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: IBC 13" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/9a59aa523340e00a9e2ec670ff310ec5.png" group-title="PHILIPPINES",IBC 13
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276527
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: INC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5cc77d7abcb47383b8192c72df51c7db.png" group-title="PHILIPPINES",INC TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/151355
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Kapamilya Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/941ed3ead68bd7d7b0c871444b5593a1.png" group-title="PHILIPPINES",Kapamilya Channel
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276604
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: KIX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PHILIPPINES",KIX
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144852
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Knowledge Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/36b3f519082856af7537cb298f13c3f1.png" group-title="PHILIPPINES",Knowledge Channel
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299942
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Lifetime" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0b9679d26965a50aeeac957d139d619c.png" group-title="PHILIPPINES",Lifetime
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/147240
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Moonbug Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PHILIPPINES",Moonbug Kids
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299958
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Myx Philippines" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/d186d8314289e501ee10a47be41838b4.png" group-title="PHILIPPINES",Myx
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299938
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/638b1d821ff28c444b3d9dfa622d1c62.png" group-title="PHILIPPINES",Nick Jr
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144898
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c7ab06cbf7585369cd9b05e358fa0cd.png" group-title="PHILIPPINES",nickelodeon
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144870
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa4b132918cc8bfbd6ed83bbbaf05ace.png" group-title="PHILIPPINES",One PH
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276603
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: One News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/b0ab767d8d461e6dc1b58853ae134af9.png" group-title="PHILIPPINES",One News
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299946
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/1a5a6455992a466b4c14a8b7ff1ebe11.png" group-title="SPORTS",One Sports
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299947
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports +" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/aa72ca0d8a5e61e9837c52901b14ee0e.png" group-title="SPORTS",One Sports +
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/290365
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Outdoor" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/166d9a03845c1e4dbddfa4d3a30afaa3.png" group-title="PHILIPPINES",Outdoor
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299943
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: PBA Rush" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/7c7aeee2dbed0093c5c1c3c2bada1d8f.png" group-title="SPORTS",PBA Rush
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299950
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Pinoy Box Office" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/169475f82594e726b5a83f5c3f19a073.png" group-title="PHILIPPINES",Pinoy Box Office
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276532
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Premier Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/eeae95849f20e46f51df7d31083b3b2f.png" group-title="SPORTS",Premier Sports
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299965
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: PTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PHILIPPINES",PTV 4
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/193221
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Kapatid TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7aac68a88cfef3f3561f05779704e077.png" group-title="PHILIPPINES",TV5 FHD
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/171991
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Rock Entertaiment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/8dd9e2b5d3a5859b12383f814d5f4b34.png" group-title="PHILIPPINES",Rock Entertaiment
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299970
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Sari Sari" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b80884ea3fd2cc60d9d7fe0cbaeb194c.png" group-title="PHILIPPINES",Sari Sari Channel
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/76602
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: SMNI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9a7ab46030e45b841fcac8e1bb26031b.png" group-title="PHILIPPINES",SMNI
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/166680
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Super Radyo DZBB" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a3a10b36137b1afc082b2161a98c0a3c.png" group-title="PHILIPPINES",Super Radyo DZBB
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/284791
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: TAP Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" group-title="VIP SPORTS 1",TAP Sports
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299945
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: TeleNovela Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/8e3f4fce4168cdfe98bba64bfa4f1eba.png" group-title="PHILIPPINES",TeleNovela Channel
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144882
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: TFC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/85c9b1c6344b0bcfa1fb76b21cb8a376.png" group-title="PHILIPPINES",TFC
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/121795
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/7b4777a1db669ace23dc40eb7423774c.png" group-title="PHILIPPINES",Thrill
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144888
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/da1bef7ad90b7af523080f303903ee17.png" group-title="PHILIPPINES",TLC
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF//144900
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Travel Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3256b4b3d72c80424d9c34f63208ca9a.svg" group-title="PHILIPPINES",Travel Channel
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/144881
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: TV5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/edccf0eec41d88a93ac48fd68e9fed96.png" group-title="PHILIPPINES",TV5
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/266852
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: UAAP Varsity Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/e11524ae8e1e56af300a50556f9e6d56.png" group-title="SPORTS",UAAP Varsity Channel
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/299944
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Viva Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/39367655f3636dab5287864ea572de01.png" group-title="PHILIPPINES",Viva Cinema
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/276531
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/050dfc679295d4887b15bacffd627f4d.png" group-title="PHILIPPINES",Warner TV
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/170006
