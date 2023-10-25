@@ -1,6 +1,4 @@
-#EXTM3U billed-msg="KIW KIW CUKURUKUK MPUK JERU"
 
-==============FTA NASIONAL=================
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
